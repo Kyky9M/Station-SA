@@ -37,11 +37,13 @@
       "minecraft:lush_caves": "2025-03-01 07:43:38 +0000",
       "minecraft:deep_cold_ocean": "2025-03-01 07:55:51 +0000",
       "minecraft:frozen_ocean": "2025-03-01 07:55:07 +0000",
+      "minecraft:desert": "2025-03-04 01:12:43 +0000",
       "minecraft:windswept_forest": "2025-03-03 03:53:50 +0000",
       "minecraft:ocean": "2025-03-01 06:26:58 +0000",
       "minecraft:jungle": "2025-03-01 07:13:55 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-03-01 05:49:33 +0000",
       "minecraft:snowy_beach": "2025-03-03 10:55:22 +0000",
+      "minecraft:warm_ocean": "2025-03-04 00:56:18 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-03-01 07:12:16 +0000",
       "minecraft:flower_forest": "2025-03-02 01:33:26 +0000",
       "minecraft:frozen_peaks": "2025-03-01 04:19:56 +0000",
@@ -383,6 +385,7 @@
       "minecraft:phantom": "2025-03-01 22:48:33 +0000",
       "minecraft:witch": "2025-03-01 08:48:33 +0000",
       "minecraft:wither_skeleton": "2025-03-03 16:14:05 +0000",
+      "minecraft:husk": "2025-03-04 01:49:07 +0000",
       "minecraft:cave_spider": "2025-03-01 04:41:21 +0000",
       "minecraft:piglin": "2025-03-03 16:33:39 +0000",
       "minecraft:enderman": "2025-03-01 07:09:07 +0000",
@@ -4608,6 +4611,108 @@
   "minecraft:story/cure_zombie_villager": {
     "criteria": {
       "cured_zombie": "2025-03-04 00:18:58 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_deathworm": {
+    "criteria": {
+      "killed_fire_dragon": "2025-03-04 01:16:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_yellow_boots": {
+    "criteria": {
+      "has_item": "2025-03-04 01:16:31 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_yellow_helmet": {
+    "criteria": {
+      "has_item": "2025-03-04 01:16:31 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_yellow_leggings": {
+    "criteria": {
+      "has_item": "2025-03-04 01:16:31 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_yellow_chestplate": {
+    "criteria": {
+      "has_item": "2025-03-04 01:16:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_bricks": {
+    "criteria": {
+      "has_packed_mud": "2025-03-04 01:16:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_chiseled_sandstone": "2025-03-04 01:42:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-03-04 01:48:27 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/tarantula_hawk": {
+    "criteria": {
+      "killed": "2025-03-04 01:46:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_green_leggings": {
+    "criteria": {
+      "has_item": "2025-03-04 01:52:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_chiseled_sandstone": "2025-03-04 01:42:10 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/guster": {
+    "criteria": {
+      "killed_by": "2025-03-04 01:57:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_green_boots": {
+    "criteria": {
+      "has_item": "2025-03-04 01:52:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_green_chestplate": {
+    "criteria": {
+      "has_item": "2025-03-04 01:52:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_green_to_sea_serpent_scale_block_green": {
+    "criteria": {
+      "has_sea_serpent_scales_green": "2025-03-04 01:52:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-03-04 01:48:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_green_helmet": {
+    "criteria": {
+      "has_item": "2025-03-04 01:52:50 +0000"
     },
     "done": true
   },
