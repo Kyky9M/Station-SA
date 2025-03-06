@@ -569,6 +569,7 @@
       "bread": "2025-03-01 04:24:33 +0000",
       "golden_apple": "2025-03-01 08:28:05 +0000",
       "rotten_flesh": "2025-03-01 08:46:55 +0000",
+      "suspicious_stew": "2025-03-06 03:01:10 +0000",
       "glow_berries": "2025-03-04 01:44:49 +0000",
       "melon_slice": "2025-03-06 02:27:53 +0000",
       "cooked_chicken": "2025-03-01 04:21:08 +0000",
@@ -3867,6 +3868,42 @@
   "minecraft:recipes/redstone/redstone": {
     "criteria": {
       "has_redstone_block": "2025-03-06 02:39:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_amythest_boots": {
+    "criteria": {
+      "has_item": "2025-03-06 03:04:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_amythest_leggings": {
+    "criteria": {
+      "has_item": "2025-03-06 03:04:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_amythest_helmet": {
+    "criteria": {
+      "has_item": "2025-03-06 03:04:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_amythest_to_dragonscale_amythest": {
+    "criteria": {
+      "has_dragonscales_amythest": "2025-03-06 03:04:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-03-06 03:01:10 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_amythest_chestplate": {
+    "criteria": {
+      "has_item": "2025-03-06 03:04:39 +0000"
     },
     "done": true
   },

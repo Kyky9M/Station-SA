@@ -2219,3 +2219,37 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [06Mar2025 02:57:16.887] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombieboss at BlockPos{x=16436, y=-51, z=9349} at Chest with:minecraft:chests/simple_dungeon
 [06Mar2025 02:57:34.534] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:rabbitboss at BlockPos{x=16692, y=-53, z=9809} at Chest with:minecraft:chests/simple_dungeon
 [06Mar2025 02:57:36.488] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:vindicatorboss at BlockPos{x=16419, y=0, z=9811} at Chest with:minecraft:chests/simple_dungeon
+[06Mar2025 02:58:34.929] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombietoxicboss at BlockPos{x=16943, y=-53, z=9542} at Chest with:minecraft:chests/simple_dungeon
+[06Mar2025 02:58:50.816] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:vexboss at BlockPos{x=17029, y=-9, z=9882} at Chest with:minecraft:chests/simple_dungeon
+[06Mar2025 02:59:01.274] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombietoxicboss at BlockPos{x=17084, y=-12, z=9713} at Chest with:minecraft:chests/simple_dungeon
+[06Mar2025 02:59:20.715] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:drownedboss at BlockPos{x=17165, y=62, z=9614} at Chest with:minecraft:chests/shipwreck_supply
+[06Mar2025 02:59:25.729] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Mar2025 02:59:25.763] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Mar2025 02:59:37.443] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:pillagerboss at BlockPos{x=17214, y=67, z=9498} at Chest with:minecraft:chests/simple_dungeon
+[06Mar2025 02:59:41.072] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:rabbitboss at BlockPos{x=17157, y=-46, z=9487} at Chest with:minecraft:chests/simple_dungeon
+[06Mar2025 02:59:41.667] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:vexboss at BlockPos{x=17251, y=-6, z=9713} at Chest with:minecraft:chests/simple_dungeon
+[06Mar2025 02:59:46.432] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:nature/boulder
+[06Mar2025 02:59:47.436] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombietoxicboss at BlockPos{x=17271, y=-50, z=9545} at Chest with:minecraft:chests/simple_dungeon
+[06Mar2025 02:59:53.830] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:cavespiderboss at BlockPos{x=16968, y=15, z=9410} at Chest with:minecraft:chests/simple_dungeon
+[06Mar2025 02:59:56.459] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:other_decoration/desert_pump
+[06Mar2025 02:59:57.476] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:houses/small_swamp_house
+[06Mar2025 03:00:02.018] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:endervindicatorboss at BlockPos{x=17340, y=-3, z=9609} at Chest with:minecraft:chests/simple_dungeon
+[06Mar2025 03:00:07.662] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:drownedboss at BlockPos{x=17340, y=49, z=9404} at Chest with:minecraft:chests/underwater_ruin_small
+[06Mar2025 03:00:28.189] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Drowned['Sargent the Soaked'/7606, l='ServerLevel[world]', x=17171.68, y=62.00, z=9614.98] died: Sargent the Soaked was slain by Gabsterzx
+[06Mar2025 03:00:47.031] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5742ms or 114 ticks behind
+[06Mar2025 03:00:56.632] [Worker-Main-7/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/9430, l='ServerLevel[world]', x=2.00, y=39.00, z=-74.00] as it would cause deadlock
+[06Mar2025 03:02:18.808] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:sunzi_gate
+[06Mar2025 03:02:19.781] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/nether_well
+[06Mar2025 03:02:22.737] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:rabbitboss at BlockPos{x=17316, y=-17, z=9226} at Chest with:minecraft:chests/simple_dungeon
+[06Mar2025 03:02:23.590] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:other_decoration/bee_dome
+[06Mar2025 03:02:28.214] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:pillagerboss at BlockPos{x=17024, y=-24, z=9248} at Chest with:minecraft:chests/simple_dungeon
+[06Mar2025 03:03:00.748] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:piglinbruteboss at BlockPos{x=250, y=36, z=356} at Chest with:minecraft:chests/bastion_other
+[06Mar2025 03:03:06.084] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:evilchickenboss at BlockPos{x=17120, y=-45, z=9003} at Chest with:minecraft:chests/simple_dungeon
+[06Mar2025 03:03:24.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC has made the advancement [Hidden in the Depths]
+[06Mar2025 03:03:33.322] [Worker-Main-6/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:endervindicatorboss at BlockPos{x=16955, y=-8, z=8981} at Chest with:minecraft:chests/simple_dungeon
+[06Mar2025 03:04:04.472] [Worker-Main-6/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/12310, l='ServerLevel[world]', x=301.00, y=31.00, z=137.00] as it would cause deadlock
+[06Mar2025 03:04:04.474] [Worker-Main-6/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/12312, l='ServerLevel[world]', x=299.00, y=31.00, z=139.00] as it would cause deadlock
+[06Mar2025 03:04:31.463] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Mar2025 03:04:31.493] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Mar2025 03:06:18.110] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabsterzx lost connection: Disconnected
+[06Mar2025 03:06:18.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabsterzx left the game

@@ -156,3 +156,11 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [06Mar2025 02:55:25.509] [Worker-Main-7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: revampedvillages:outpost/points
 [06Mar2025 02:56:33.985] [Worker-Main-7/INFO] [ModernFix/]: Instantiating Mojang DFU
 [06Mar2025 02:56:48.484] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=16686, y=73, z=9361} BlockPos{x=16686, y=71, z=9362}
+[06Mar2025 03:00:28.189] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Drowned['Sargent the Soaked'/7606, l='ServerLevel[world]', x=17171.68, y=62.00, z=9614.98] died: Sargent the Soaked was slain by Gabsterzx
+[06Mar2025 03:00:47.031] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5742ms or 114 ticks behind
+[06Mar2025 03:00:56.632] [Worker-Main-7/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/9430, l='ServerLevel[world]', x=2.00, y=39.00, z=-74.00] as it would cause deadlock
+[06Mar2025 03:03:24.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC has made the advancement [Hidden in the Depths]
+[06Mar2025 03:04:04.472] [Worker-Main-6/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/12310, l='ServerLevel[world]', x=301.00, y=31.00, z=137.00] as it would cause deadlock
+[06Mar2025 03:04:04.474] [Worker-Main-6/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/12312, l='ServerLevel[world]', x=299.00, y=31.00, z=139.00] as it would cause deadlock
+[06Mar2025 03:06:18.110] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabsterzx lost connection: Disconnected
+[06Mar2025 03:06:18.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabsterzx left the game
