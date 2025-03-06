@@ -3772,24 +3772,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/trapped_chest": {
-    "criteria": {
-      "has_tripwire_hook": "2025-03-04 02:18:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
-    "criteria": {
-      "has_cut_sandstone": "2025-03-04 02:12:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
-    "criteria": {
-      "has_cut_sandstone": "2025-03-04 02:12:52 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/combat/armor_red_helmet": {
     "criteria": {
       "has_item": "2025-03-04 02:06:06 +0000"
@@ -3817,6 +3799,24 @@
   "cataclysm:find_cursed_pyramid": {
     "criteria": {
       "pyramid": "2025-03-04 02:09:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2025-03-04 02:12:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2025-03-04 02:12:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-03-04 02:18:26 +0000"
     },
     "done": true
   },
