@@ -13,3 +13,7 @@
 [07Mar2025 00:09:31.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported theJoJonny to HestorJC]
 [07Mar2025 00:09:40.570] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: theJoJonny lost connection: Timed out
 [07Mar2025 00:09:40.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny left the game
+[07Mar2025 00:12:10.629] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: theJoJonny[/127.107.54.166:50065] logged in with entity id 8981 at (185.0085182800193, 63.0, 178.01510780314806)
+[07Mar2025 00:12:10.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny joined the game
+[07Mar2025 00:12:32.218] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HestorJC lost connection: Timed out
+[07Mar2025 00:12:32.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC left the game
