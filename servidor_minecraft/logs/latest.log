@@ -1,22 +1,22 @@
-[07Mar2025 01:12:52.808] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[07Mar2025 01:12:52.814] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
-[07Mar2025 01:12:53.253] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[07Mar2025 01:12:53.318] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Station-SA/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
-[07Mar2025 01:12:53.714] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Station-SA/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.0/fmlcore-1.20.1-47.3.0.jar is missing mods.toml file
-[07Mar2025 01:12:53.716] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Station-SA/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.0/javafmllanguage-1.20.1-47.3.0.jar is missing mods.toml file
-[07Mar2025 01:12:53.718] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Station-SA/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.0/lowcodelanguage-1.20.1-47.3.0.jar is missing mods.toml file
-[07Mar2025 01:12:53.720] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Station-SA/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.0/mclanguage-1.20.1-47.3.0.jar is missing mods.toml file
-[07Mar2025 01:12:53.924] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 2 dependencies adding them to mods collection
-[07Mar2025 01:12:56.840] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[07Mar2025 01:12:57.029] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[07Mar2025 01:12:57.178] [main/WARN] [mixin/]: Reference map 'mes-forge-refmap.json' for mes-forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[07Mar2025 01:12:57.417] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.20.2+mc1.20.1: 87 options available, 0 override(s) found
-[07Mar2025 01:12:57.419] [main/INFO] [ModernFix/]: Applying Nashorn fix
-[07Mar2025 01:12:57.434] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
-[07Mar2025 01:12:57.618] [main/WARN] [mixin/]: Reference map 'mvs-forge-refmap.json' for mvs-forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[07Mar2025 01:12:57.634] [main/WARN] [mixin/]: Reference map 'mns-forge-refmap.json' for mns-forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[07Mar2025 01:12:59.844] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[07Mar2025 01:13:00.355] [main/WARN] [net.minecraft.SystemReport/]: Failed retrieving info for group hardware
+[07Mar2025 04:58:37.077] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[07Mar2025 04:58:37.082] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
+[07Mar2025 04:58:37.995] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[07Mar2025 04:58:38.088] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Station-SA/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
+[07Mar2025 04:58:38.537] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Station-SA/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.0/fmlcore-1.20.1-47.3.0.jar is missing mods.toml file
+[07Mar2025 04:58:38.539] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Station-SA/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.0/javafmllanguage-1.20.1-47.3.0.jar is missing mods.toml file
+[07Mar2025 04:58:38.542] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Station-SA/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.0/lowcodelanguage-1.20.1-47.3.0.jar is missing mods.toml file
+[07Mar2025 04:58:38.544] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Station-SA/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.0/mclanguage-1.20.1-47.3.0.jar is missing mods.toml file
+[07Mar2025 04:58:38.771] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 2 dependencies adding them to mods collection
+[07Mar2025 04:58:41.906] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[07Mar2025 04:58:42.115] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[07Mar2025 04:58:42.202] [main/WARN] [mixin/]: Reference map 'mes-forge-refmap.json' for mes-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[07Mar2025 04:58:42.396] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.20.2+mc1.20.1: 87 options available, 0 override(s) found
+[07Mar2025 04:58:42.399] [main/INFO] [ModernFix/]: Applying Nashorn fix
+[07Mar2025 04:58:42.457] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
+[07Mar2025 04:58:42.686] [main/WARN] [mixin/]: Reference map 'mvs-forge-refmap.json' for mvs-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[07Mar2025 04:58:42.705] [main/WARN] [mixin/]: Reference map 'mns-forge-refmap.json' for mns-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[07Mar2025 04:58:44.961] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[07Mar2025 04:58:45.504] [main/WARN] [net.minecraft.SystemReport/]: Failed retrieving info for group hardware
 java.lang.NoClassDefFoundError: com/sun/jna/Platform
 	at oshi.SystemInfo.<clinit>(SystemInfo.java:60) ~[oshi-core-6.2.2.jar%2369!/:6.2.2]
 	at net.minecraft.SystemReport.m_143564_(SystemReport.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
@@ -46,46 +46,116 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:137) ~[securejarhandler-2.1.10.jar:?]
 	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
 	... 22 more
-[07Mar2025 01:13:00.554] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (11.34 s after launch)
-[07Mar2025 01:13:00.849] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
-[07Mar2025 01:13:00.851] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
-[07Mar2025 01:13:03.581] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 3014 milliseconds
-[07Mar2025 01:13:10.159] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
-[07Mar2025 01:13:10.205] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.0, for MC 1.20.1 with MCP 20230612.114412
-[07Mar2025 01:13:10.208] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.0 Initialized
-[07Mar2025 01:13:14.411] [modloading-worker-0/INFO] [com.brutalbosses.BrutalBosses/]: brutalbosses mod initialized
-[07Mar2025 01:13:14.633] [modloading-worker-0/INFO] [com.github.nyuppo.MoreMobVariants/]: Giving mobs a fresh coat of paint...
-[07Mar2025 01:13:14.736] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[07Mar2025 01:13:15.003] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
-[07Mar2025 01:13:15.003] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_lukis_grandcapitals] Starting version check at https://api.modrinth.com/updates/8Lw09aLb/forge_updates.json
-[07Mar2025 01:13:15.037] [main/INFO] [journeymap/]: Initializing Packet Registries
-[07Mar2025 01:13:15.222] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_lukis_grandcapitals] Found status: OUTDATED Current: 1.1.1 Target: 1.1.1+mod
-[07Mar2025 01:13:15.223] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[07Mar2025 01:13:15.385] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.0 Target: 47.4.0
-[07Mar2025 01:13:16.020] [main/WARN] [net.minecraftforge.server.loading.ServerModLoader/LOADING]: Mods loaded with 2 warnings
-[07Mar2025 01:13:16.025] [main/WARN] [net.minecraftforge.server.loading.ServerModLoader/LOADING]: modernfix.no_ferritecore
-[07Mar2025 01:13:16.026] [main/WARN] [net.minecraftforge.server.loading.ServerModLoader/LOADING]: modernfix.perf_mod_warning
-[07Mar2025 01:13:16.059] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[07Mar2025 01:13:16.212] [main/INFO] [ModernFix/]: Bypassed Mojang DFU
-[07Mar2025 01:13:16.264] [main/ERROR] [net.minecraft.server.Main/FATAL]: Failed to start the minecraft server
-net.minecraft.util.DirectoryLock$LockException: /workspaces/Station-SA/servidor_minecraft/./world/session.lock: already locked (possibly by other Minecraft instance?)
-	at net.minecraft.util.DirectoryLock$LockException.m_13648_(DirectoryLock.java:95) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
-	at net.minecraft.util.DirectoryLock.m_13640_(DirectoryLock.java:41) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
-	at net.minecraft.world.level.storage.LevelStorageSource$LevelStorageAccess.<init>(LevelStorageSource.java:404) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
-	at net.minecraft.world.level.storage.LevelStorageSource.m_289864_(LevelStorageSource.java:342) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
-	at net.minecraft.server.Main.main(Main.java:141) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
-	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
-	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
-	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
-	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
-	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.0.jar%2367!/:?]
-	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.0.jar%2367!/:?]
-	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.0.jar%2367!/:?]
-	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2353!/:?]
-	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2353!/:?]
-	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2353!/:?]
-	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2353!/:?]
-	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2353!/:?]
-	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2353!/:?]
-	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2353!/:?]
-	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[07Mar2025 04:58:45.681] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (12.37 s after launch)
+[07Mar2025 04:58:46.000] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[07Mar2025 04:58:46.001] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[07Mar2025 04:58:48.788] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 3093 milliseconds
+[07Mar2025 04:58:56.368] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
+[07Mar2025 04:58:56.404] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.0, for MC 1.20.1 with MCP 20230612.114412
+[07Mar2025 04:58:56.404] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.0 Initialized
+[07Mar2025 04:59:00.009] [Thread-0/INFO] [ModernFix/]: Please use /mfsrc to reload any changed mod config files
+[07Mar2025 04:59:00.374] [modloading-worker-0/INFO] [com.brutalbosses.BrutalBosses/]: brutalbosses mod initialized
+[07Mar2025 04:59:00.748] [modloading-worker-0/INFO] [com.github.nyuppo.MoreMobVariants/]: Giving mobs a fresh coat of paint...
+[07Mar2025 04:59:00.859] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[07Mar2025 04:59:01.107] [main/INFO] [journeymap/]: Initializing Packet Registries
+[07Mar2025 04:59:01.166] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
+[07Mar2025 04:59:01.166] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_lukis_grandcapitals] Starting version check at https://api.modrinth.com/updates/8Lw09aLb/forge_updates.json
+[07Mar2025 04:59:01.338] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_lukis_grandcapitals] Found status: OUTDATED Current: 1.1.1 Target: 1.1.1+mod
+[07Mar2025 04:59:01.339] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[07Mar2025 04:59:01.556] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.0 Target: 47.4.0
+[07Mar2025 04:59:02.131] [main/WARN] [net.minecraftforge.server.loading.ServerModLoader/LOADING]: Mods loaded with 2 warnings
+[07Mar2025 04:59:02.135] [main/WARN] [net.minecraftforge.server.loading.ServerModLoader/LOADING]: modernfix.no_ferritecore
+[07Mar2025 04:59:02.136] [main/WARN] [net.minecraftforge.server.loading.ServerModLoader/LOADING]: modernfix.perf_mod_warning
+[07Mar2025 04:59:02.186] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[07Mar2025 04:59:02.385] [main/INFO] [ModernFix/]: Bypassed Mojang DFU
+[07Mar2025 04:59:02.759] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Station-SA/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23143!/assets/.mcassetsroot' uses unexpected schema
+[07Mar2025 04:59:02.759] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Station-SA/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23143!/data/.mcassetsroot' uses unexpected schema
+[07Mar2025 04:59:05.003] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[07Mar2025 04:59:05.087] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag unusualend:void_tracker_located as it is missing following references: unusualend:gloopy_citadel (from unusualend-2.2.3-forge-1.20.1.jar)
+[07Mar2025 04:59:05.088] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag minecraft:void_tracker_located as it is missing following references: unusualend:gloopy_citadel (from unusualend-2.2.3-forge-1.20.1.jar)
+[07Mar2025 04:59:06.828] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 12 recipes
+[07Mar2025 04:59:07.043] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1874 advancements
+[07Mar2025 04:59:07.070] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio slots
+[07Mar2025 04:59:07.078] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[07Mar2025 04:59:07.119] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:drowned
+[07Mar2025 04:59:07.120] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:iron_golem
+[07Mar2025 04:59:07.121] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:snow_golem
+[07Mar2025 04:59:07.122] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:zombie
+[07Mar2025 04:59:07.122] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:skeleton
+[07Mar2025 04:59:07.123] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:pillager
+[07Mar2025 04:59:07.124] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:vex
+[07Mar2025 04:59:07.125] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:evoker
+[07Mar2025 04:59:07.126] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:zombie
+[07Mar2025 04:59:07.128] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:vindicator
+[07Mar2025 04:59:07.128] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:wither_skeleton
+[07Mar2025 04:59:07.129] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:wither_skeleton
+[07Mar2025 04:59:07.130] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:cave_spider
+[07Mar2025 04:59:07.131] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:zombie
+[07Mar2025 04:59:07.132] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:husk
+[07Mar2025 04:59:07.133] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:evoker
+[07Mar2025 04:59:07.133] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:wandering_trader
+[07Mar2025 04:59:07.134] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:guardian
+[07Mar2025 04:59:07.135] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:vindicator
+[07Mar2025 04:59:07.136] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:shulker
+[07Mar2025 04:59:07.137] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:zoglin
+[07Mar2025 04:59:07.138] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:chicken
+[07Mar2025 04:59:07.138] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:blaze
+[07Mar2025 04:59:07.139] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:witch
+[07Mar2025 04:59:07.140] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:phantom
+[07Mar2025 04:59:07.141] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:mooshroom
+[07Mar2025 04:59:07.142] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:rabbit
+[07Mar2025 04:59:07.143] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:piglin_brute
+[07Mar2025 04:59:07.143] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:ghast
+[07Mar2025 04:59:07.144] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:stray
+[07Mar2025 04:59:07.164] [main/INFO] [com.github.nyuppo.MoreMobVariants/]: Reloading config...
+[07Mar2025 04:59:07.388] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[07Mar2025 04:59:07.388] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[07Mar2025 04:59:07.388] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[07Mar2025 04:59:07.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[07Mar2025 04:59:07.558] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[07Mar2025 04:59:07.603] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[07Mar2025 04:59:07.709] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[07Mar2025 04:59:07.709] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[07Mar2025 04:59:07.710] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[07Mar2025 04:59:07.710] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[07Mar2025 04:59:07.813] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[07Mar2025 04:59:08.020] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[07Mar2025 04:59:08.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[07Mar2025 04:59:11.157] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Mar2025 04:59:11.158] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Mar2025 04:59:11.160] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Mar2025 04:59:11.161] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Mar2025 04:59:11.166] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Mar2025 04:59:11.275] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Mar2025 04:59:11.911] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Mar2025 04:59:12.280] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 97%
+[07Mar2025 04:59:12.722] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 3955 ms
+[07Mar2025 04:59:12.724] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (4.992s)! For help, type "help"
+[07Mar2025 04:59:12.780] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[07Mar2025 04:59:12.817] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
+[07Mar2025 04:59:12.820] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[07Mar2025 04:59:12.822] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: brutalbosses.json
+[07Mar2025 04:59:12.825] [Server thread/WARN] [ModernFix/]: Dedicated server took 39.514 seconds to load
+[07Mar2025 05:01:09.654] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: HestorJC[/127.160.228.191:60139] logged in with entity id 116 at (180.34853035082875, 78.0, 184.59182122358786)
+[07Mar2025 05:01:09.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC joined the game
+[07Mar2025 05:01:13.282] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[07Mar2025 05:01:57.224] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: theJoJonny[/127.107.54.166:37831] logged in with entity id 670 at (117.7920066098297, 83.0, 263.1602052512849)
+[07Mar2025 05:01:57.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny joined the game
+[07Mar2025 05:02:27.343] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: theJoJonny lost connection: Timed out
+[07Mar2025 05:02:27.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny left the game
+[07Mar2025 05:02:49.240] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: theJoJonny[/127.107.54.166:33015] logged in with entity id 862 at (117.7920066098297, 83.0, 263.1602052512849)
+[07Mar2025 05:02:49.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny joined the game
+[07Mar2025 05:02:54.286] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HestorJC lost connection: Disconnected
+[07Mar2025 05:02:54.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC left the game
+[07Mar2025 05:03:07.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[07Mar2025 05:03:07.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[07Mar2025 05:03:07.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[07Mar2025 05:03:07.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[07Mar2025 05:03:07.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[07Mar2025 05:03:07.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[07Mar2025 05:03:07.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[07Mar2025 05:03:08.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07Mar2025 05:03:08.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07Mar2025 05:03:08.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07Mar2025 05:03:08.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[07Mar2025 05:03:08.047] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
